@@ -27,6 +27,7 @@ svg {
     height: 3rem;
     width: 3rem;
     margin-right: 1rem;
+    fill: #1771d8;
 }
 
 form {
@@ -50,7 +51,7 @@ form input {
 }
 
 form button {
-    background-color: #16820f;
+    background-color: #1771d8;
     color: #fff;
     font-family: 'Roboto', sans-serif;
     font-size: 1.25rem;
